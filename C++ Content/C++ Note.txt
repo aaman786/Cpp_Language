@@ -1,0 +1,28 @@
+C++ programming (Note are related to the content)
+
+Content 1 := Introduction and 1st program.
+why we learn programmimg language, why learn C++ despite it 
+being an ancient programming language?, Simple program.
+
+Content 2:= Structure of C++ Basic programm.
+with detailed Expalination.
+
+content:- There is also howw to give the presidecy to global variable in presece of Local Variable.
+
+
+
+
+
+
+
+StL Contents are remaining. #69 (cotinue from here)
+
+
+
+
+
+
+
+VS Code:
+
+cnt 55 in vscode giving eror.
